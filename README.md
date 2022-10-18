@@ -19,14 +19,21 @@ El menu principal debera tener las siguientes operaciones:
 ## Etapa 2. Diseño de la solucion
 
 • Entrada
-° String numeroTarjeta 
-° int pin
-° float saldo
-° Adicionales: nombre, email, telefono
+ 
+ String numeroTarjeta 
+ 
+ int pin
+
+ float saldo
+ 
+ Adicionales: nombre, email, telefono
 
 • Proceso:
-° Validar los datos ingresados: numero de tarjeta y pin 
-° Mostrar un menu de opcones de cajero automatico
+ 
+ Validar los datos ingresados: numero de tarjeta y pin 
+ 
+ Mostrar un menu de opcones de cajero automatico
+
 • Salida:
 
 Diseñar interfaz...
