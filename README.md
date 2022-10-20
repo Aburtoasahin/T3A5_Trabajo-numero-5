@@ -36,4 +36,5 @@ El menu principal debera tener las siguientes operaciones:
 
 • Salida:
 
-
+##Etapa 3
+![](https://github.com/Aburtoasahin/T3A5_Trabajo-numero-5/blob/main/Slide1.jpg)
