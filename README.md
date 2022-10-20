@@ -36,4 +36,4 @@ El menu principal debera tener las siguientes operaciones:
 
 • Salida:
 
-Diseñar interfaz...
+
